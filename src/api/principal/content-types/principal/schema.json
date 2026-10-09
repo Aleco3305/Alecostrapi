@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "principals",
+  "info": {
+    "singularName": "principal",
+    "pluralName": "principals",
+    "displayName": "Principal"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Bienvenido": {
+      "type": "string"
+    },
+    "Contenido": {
+      "type": "string"
+    }
+  }
+}
